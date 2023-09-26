@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Chatlympus Vanilla",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_vanilla.dart"
+        },
+        {
+            "name": "Chatlympus GetX",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_getx.dart"
+        },
+        {
+            "name": "Chatlympus Riverpod",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_riverpod.dart"
+        },
+    ]
+}
